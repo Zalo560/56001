@@ -1,0 +1,47 @@
+        <div class="item"> <!--2nd item-->
+            <img width="220"src="images/img-2.jpg" alt="">
+            <div class="details">
+                <h3>Office Shirts</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing.</p>
+                <div class="price-quantity">
+                    <h2>$ 90</h2>
+                    <div class="button">
+                        <i class="bi bi-dash-lg"></i>
+                        <div class="quantity">0</div>
+                        <i class="bi bi-plus-lg"></i>                 
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="item"> <!--3rd item-->
+            <img width="220"src="images/img-3.jpg" alt="">
+            <div class="details">
+                <h3>T-Shirts</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing.</p>
+                <div class="price-quantity">
+                    <h2>$ 45</h2>
+                    <div class="button">
+                        <i class="bi bi-dash-lg"></i>
+                        <div class="quantity">0</div>
+                        <i class="bi bi-plus-lg"></i>                 
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="item"> <!--4th item-->
+            <img width="220"src="images/img-4.jpg" alt="">
+            <div class="details">
+                <h3>Suits</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing.</p>
+                <div class="price-quantity">
+                    <h2>$ 45</h2>
+                    <div class="button">
+                        <i class="bi bi-dash-lg"></i>
+                        <div class="quantity">0</div>
+                        <i class="bi bi-plus-lg"></i>                 
+                    </div>
+                </div>
+            </div>
+        </div>
